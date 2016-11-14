@@ -1,0 +1,69 @@
+
+	* {
+		margin: 0;
+		outline: 0;
+		padding: 0;
+	}
+	BODY {
+		background-size: cover;
+		color: #fff;
+		font-family: tahoma,verdana,arial,helvetica,sans-serif;
+		font-size: small;
+	}
+	IMG {
+		vertical-align: top;
+	}
+	INPUT {
+		font-family: tahoma,verdana,arial,helvetica,sans-serif;
+		font-size: small;
+	}
+	.Header {
+		background: url(/images/black-bg.png);
+	}
+	.Wrapper {
+		margin: 0 auto;
+		width: 935px;
+	}
+	.WrapperBG {
+		background: url(/images/black-bg.png);
+	}
+	.Navigation {
+		margin: 10px 0;
+		padding: 0 20px;
+		white-space: nowrap;
+		text-align: center;
+	}
+	.Navigation A {
+		display: inline-block;
+		width: 18%;
+		height: 42px;
+		line-height: 42px;
+		text-align: center;
+		margin: 0 1%;
+		color: #fff;
+		text-decoration: none;
+		transition: all 0.5s;
+	}
+	.Navigation A:hover {
+		background-color: #fff;
+		color: #000;
+	}
+	.Navigation A.selected {
+		background-color: #be9a3c;
+		color: #fff;
+	}
+	.Content {
+		padding: 30px;
+		text-align: center;
+	}
+	.Content H1,
+	.Content H2 {
+		color: #fac022;
+		font-size: 1.7em;
+		font-weight: normal;
+		margin-bottom: 1em;
+	}
+	.Footer {
+		background: url(/images/foot-bg.png);
+		text-align: center;
+	}
