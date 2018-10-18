@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<link rel="icon" type="image/png" href="http://thewowtruckspokane.com/icon.png" />
+<link rel="icon" type="image/png" href="/icon.png" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>The WOW Truck - Menu</title>
 <meta name="description" content="The WOW Truck - Spokane, WA. The food truck with BIG CITY taste, we are sure to WOW you." />
